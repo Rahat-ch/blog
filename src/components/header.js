@@ -2,6 +2,8 @@ import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import React from 'react'
 
+import logo from '../images/mee.png'
+
 const Header = ({ siteTitle }) => (
   <div
     style={{
@@ -24,7 +26,9 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-          {siteTitle}
+          <img style ={{
+            width: '100px',
+          }} src = {logo} alt="My Logo"/>
         </Link>
       </h1>
     </div>
@@ -33,6 +37,7 @@ const Header = ({ siteTitle }) => (
 
 Header.propTypes = {
   siteTitle: PropTypes.string,
+  
 }
 
 Header.defaultProps = {
