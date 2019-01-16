@@ -2,9 +2,11 @@ module.exports = {
   siteMetadata: {
     title: `Rahat Codes`,
     description: `A personal blog by Rahat Chowdhury`,
-    author: `@gatsbyjs`,
+    author: `Rahat Chowdhury`,
+    siteUrl: 'https://nostalgic-lewin-1d21cf.netlify.com/'
   },
   plugins: [
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
     {
@@ -33,13 +35,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Rahat Codes Blog`,
+        short_name: `RC Blog`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#6C62FF`,
+        theme_color: `#6C62FF`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        // icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
     {
@@ -57,9 +59,7 @@ module.exports = {
       plugins: [],
     },
   },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.app/offline
-    // 'gatsby-plugin-offline',
-    `gatsby-plugin-netlify`, // make sure to put last in the array
+  `gatsby-plugin-netlify-cms`,
+  `gatsby-plugin-netlify`, // make sure to put last in the array
   ],
 }
