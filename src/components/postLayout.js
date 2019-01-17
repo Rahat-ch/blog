@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
-import { graphql } from 'gatsby';
+import styled from 'styled-components'
+import { graphql } from 'gatsby'
 import Layout from './layout'
 
 //static query can be used anywhere
@@ -8,37 +9,39 @@ import Layout from './layout'
 //page query
 //must be used on pages
 
+const PostContent = styled.div`
+  font-size: 0.8rem;
+  font-family: sans-serif;
+`
+
 export default class postLayout extends Component {
-  render () {
-    const { markdownRemark } = this.props.data;
+  render() {
+    const { markdownRemark } = this.props.data
 
-
-    return(
+    return (
       <Layout>
-      <div>
-        <h1>{markdownRemark.frontmatter.title}</h1>
-        <div dangerouslySetInnerHTML = {{
-          __html: markdownRemark.html
-        }} />
-      </div>
+        <PostContent>
+          <h1>{markdownRemark.frontmatter.title}</h1>
+          <div
+            dangerouslySetInnerHTML={{
+              __html: markdownRemark.html,
+            }}
+          />
+        </PostContent>
       </Layout>
     )
   }
 }
 
 export const query = graphql`
-query PostQuery ($slug: String!){
-markdownRemark(frontmatter: {
-  slug: {
-    eq: $slug
+  query PostQuery($slug: String!) {
+    markdownRemark(frontmatter: { slug: { eq: $slug } }) {
+      html
+      frontmatter {
+        title
+        date
+        slug
+      }
+    }
   }
-}) {
-  html
-  frontmatter{
-    title
-    date
-    slug
-  }
-}
-}
-`;
+`
