@@ -15,15 +15,15 @@ const MainLayout = styled.main`
   grid-template-columns: 3fr 1fr;
   grid-gap: 40px;
 
-  footer{
-    margin: 0 auto;
+  footer {
+    margin-left: 55%;
 
-    a{
-      color: #6C62FF;
+    a {
+      color: #6c62ff;
       text-decoration: none;
     }
   }
-`;
+`
 
 const Layout = ({ children }) => (
   <StaticQuery
@@ -41,9 +41,7 @@ const Layout = ({ children }) => (
       <>
         <Header siteTitle={data.site.siteMetadata.title} />
         <MainLayout>
-          <div>
-          {children}
-        </div>
+          <div>{children}</div>
           <Archive />
 
           <footer>
