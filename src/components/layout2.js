@@ -12,13 +12,6 @@ import './layout.css'
 const MainLayout = styled.main`
   max-width: 90%;
   margin: 0 auto;
-  display: grid;
-  grid-template-columns: 3fr 1fr;
-  grid-gap: 40px;
-
-  ${media.lessThan('medium')`
-    grid-template-columns: 1fr;
-  `}
 `
 const Footer = styled.footer`
   margin-left: 40%;
@@ -28,10 +21,10 @@ const Footer = styled.footer`
   }
 `
 
-const Layout = ({ children }) => (
+const Layout2 = ({ children }) => (
   <StaticQuery
     query={graphql`
-      query SiteTitleQuery {
+      query SiteTitleQuery1 {
         site {
           siteMetadata {
             title
@@ -57,8 +50,8 @@ const Layout = ({ children }) => (
   />
 )
 
-Layout.propTypes = {
+Layout2.propTypes = {
   children: PropTypes.node.isRequired,
 }
 
-export default Layout
+export default Layout2

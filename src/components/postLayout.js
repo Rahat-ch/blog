@@ -1,7 +1,8 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
+import media from 'styled-media-query'
 import { graphql } from 'gatsby'
-import Layout from './layout'
+import Layout2 from './layout2'
 
 //static query can be used anywhere
 //but it does not except variables, can't use context
@@ -12,6 +13,16 @@ import Layout from './layout'
 const PostContent = styled.div`
   font-size: 0.8rem;
   font-family: sans-serif;
+  width: 100%;
+
+  h1 {
+    color: #6c62ff;
+  }
+
+  h2 {
+    max-width: 100%;
+    color: #6c62ff;
+  }
 `
 
 export default class postLayout extends Component {
@@ -19,7 +30,7 @@ export default class postLayout extends Component {
     const { markdownRemark } = this.props.data
 
     return (
-      <Layout>
+      <Layout2>
         <PostContent>
           <h1>{markdownRemark.frontmatter.title}</h1>
           <div
@@ -28,7 +39,7 @@ export default class postLayout extends Component {
             }}
           />
         </PostContent>
-      </Layout>
+      </Layout2>
     )
   }
 }

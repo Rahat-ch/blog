@@ -4,19 +4,19 @@ The primary focus of this blog will be about the Web Development technologies I 
 
 ## Built With
 
-* React
-* Gatsby
-* GraphQL
-* Markdown (for all blog posts)
+- React
+- Gatsby
+- GraphQL
+- Markdown (for all blog posts)
 
 ## Deployment
 
 The live project can be viewed here: https://blog.rahatcodes.com
 
-
 ## Versioning
 
 Version 1.0.0 is a simple blog that displays all posts I've written in a clean format.
+Version 1.0.1 is now responsive on all screen sizes.
 
 ## Authors
 
