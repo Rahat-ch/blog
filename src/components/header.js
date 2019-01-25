@@ -71,7 +71,7 @@ const Header = ({ siteTitle }) => (
         <h4>
           {' '}
           A personal blog by Rahat Chowdhury <br /> Follow Rahat: <br />{' '}
-          <a href="https://twitter.com/Rahat_Music" target="_blank">
+          <a href="https://twitter.com/rahatcodes" target="_blank">
             Twitter{' '}
           </a>{' '}
           •{' '}
