@@ -56,7 +56,10 @@ module.exports = {
         // GitHub Flavored Markdown mode (default: true)
         gfm: true,
         // Plugins configs
-        plugins: [],
+        plugins: [
+          // Wrap images by pictures
+          "gatsby-remark-picture",
+        ],
       },
     },
     `gatsby-plugin-netlify-cms`,
