@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/hluBXmz.png" alt="rahat codes home page">
+
 # Rahat Codes Blog
 
 The primary focus of this blog will be about the Web Development technologies I learn. My goal is to solidify my knowledge and provide additional resources for others.
