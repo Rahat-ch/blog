@@ -3,7 +3,7 @@ module.exports = {
     title: `Rahat Codes`,
     description: `A personal blog by Rahat Chowdhury`,
     author: `Rahat Chowdhury`,
-    siteUrl: 'https://nostalgic-lewin-1d21cf.netlify.com/',
+    siteUrl: 'https://rahatcodes.com/',
   },
   plugins: [
     `gatsby-plugin-sitemap`,
