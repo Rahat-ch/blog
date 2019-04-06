@@ -76,7 +76,10 @@ const Header = ({ siteTitle }) => (
           </a>{' '}
           •{' '}
           <a href="https://www.linkedin.com/in/rahatc/" target="_blank">
-            Linkedin
+            Linkedin 
+          </a> • {' '}
+          <a href="https://rahat.dev/" target="_blank">
+            Portfolio
           </a>
         </h4>
       </HeaderItems>
