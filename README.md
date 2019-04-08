@@ -13,7 +13,7 @@ The primary focus of this blog will be about the Web Development technologies I 
 
 ## Deployment
 
-The live project can be viewed here: https://blog.rahatcodes.com
+The live project can be viewed here: https://rahatcodes.com
 
 ## Versioning
 
