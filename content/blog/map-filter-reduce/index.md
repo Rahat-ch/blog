@@ -1,9 +1,7 @@
 ---
-slug: "/map-filter-reduce"
-date: "2019-01-18"
-title: "Map, Filter, and Reduce"
+title: Map, Filter, and Reduce
+date: '2019-01-18'
 ---
-
 
 Welcome to my first content filled post! Please note that I'm going to assume you have a basic understanding of ES6 for all of my blog posts. Free Code Camp has awesome stuff for learning ES6 if you need to brush up on it! I decided to start off with something that’s been giving me some trouble to master. JavaScript has a lot of cool features, one of those being Higher Order Functions. If you want the textbook definition, then this is a function that passes another function as an argument. Awesome now you fully understand what it means, right? Oh no, you don't? Yeah, I didn't really get it either at first. Let's take a look at three popular Higher Order functions: map, filter, and reduce.
 
@@ -134,5 +132,4 @@ There you have it, a quick and dirty explanation of Filter, Map, and Reduce. The
 
 Here's a challenge for you guys:
 
-Using the inventory array, return a new array of just the car names! If you figure it out send me a tweet @rahat_music!
-
+Using the inventory array, return a new array of just the car names! If you figure it out send me a tweet @rahatcodes!

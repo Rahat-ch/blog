@@ -1,7 +1,6 @@
 ---
-slug: '/birth-of-a-blog'
+title: How This Blog Was Born
 date: '2019-01-23'
-title: 'How This Blog Was Born'
 ---
 
 TLDR: I taught myself how to build this site with a combination of the official Gatsby Documentation and tutorials. I came to realize that the Gatsby Documentation itself is all you need. (Always read the docs!) I am also looking for dedicated individuals to collaborate on a project with me. See the end of this post for details.
@@ -24,4 +23,6 @@ I am in no way affiliated with either of them, just love both of their work!
 
 So now I've already started thinking about the next steps. Initially I thought of recruiting other people who are also beginners for guest blog posts, I may still do that but it wasn’t enough to satisfy me. What do I really want to do to shake things up and really develop my skills further? I drew inspiration from Emma Wedekind's project <a href = "https://codingcoach.io/" target="_blank">Coding Coach</a>. Absolutely check it out, it's a resource I plan to take advantage of when it launches! I've decided to start my own open source project that I hope to be built in collaboration with others who are breaking into a career as a web developer.
 
-I'd like to form a community of those of us who are learning about web development and create a platform for finding others like us trying to hone their skills and ready themselves for their leap into a new career. My vision is that we create a collaborative platform where anyone can post a fun project idea and recruit others to help create it. Kind of like what I’m doing now. If you are interested in getting together and mapping something out send me a message on Twitter or LinkedIn. You can find links to both at the top of every page on this blog! I'll start a slack channel once there a few people interested and we can really start planning something out!
+I'd like to form a community of those of us who are learning about web development and create a platform for finding others like us trying to hone their skills and ready themselves for their leap into a new career. My vision is that we create a collaborative platform where anyone can post a fun project idea and recruit others to help create it. Kind of like what I’m doing now. If you are interested in getting together and mapping something out send me a message on Twitter or LinkedIn. You can find links to both at the bottom of every page on this blog! I'll start a slack channel once there a few people interested and we can really start planning something out!
+
+April 2015 2019 Edit: I've refactored this blog using a starter I liked better from the Gatsby Starters page. Check those out to get jumpstarted on your next blog!

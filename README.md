@@ -1,29 +1,11 @@
-<img src="https://i.imgur.com/hluBXmz.png" alt="rahat codes home page">
+# gatsby-paginated-blog
 
-# Rahat Codes Blog
+Gatsby starter for creating a blog with pagination
 
-The primary focus of this blog will be about the Web Development technologies I learn. My goal is to solidify my knowledge and provide additional resources for others.
+Install this starter by running from your CLI:
 
-## Built With
+`npx gatsby new my-paginated-blog https://github.com/NickyMeuleman/gatsby-paginated-blog`
 
-- React
-- Gatsby
-- GraphQL
-- Markdown (for all blog posts)
+## Running in development
 
-## Deployment
-
-The live project can be viewed here: https://rahatcodes.com
-
-## Versioning
-
-Version 1.0.0 is a simple blog that displays all posts I've written in a clean format.
-Version 1.0.1 is now responsive on all screen sizes.
-
-## Authors
-
-Rahat Chowdhury
-
-## License
-
-This project is licensed under the MIT License - see the License file for details
+`npm run develop`

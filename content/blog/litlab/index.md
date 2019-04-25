@@ -1,7 +1,6 @@
 ---
-slug: '/litlab'
+title: LitLab
 date: '2019-02-15'
-title: 'LitLab'
 ---
 
 This post is going to be about a recent project I worked on with a few other developers. A little background: I am currently enrolled in a Web Development Bootcamp at Columbia University. Part of the curriculum is to complete three group projects, we just finished our second project. I'd like to take a second and link to the other developers I worked with, you can check out all of our GitHub's below:

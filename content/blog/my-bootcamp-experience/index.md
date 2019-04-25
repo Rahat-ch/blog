@@ -1,7 +1,6 @@
 ---
-slug: '/mybootcampexperience'
+title: My Boot Camp Experience
 date: '2019-04-05'
-title: 'My Boot Camp Experience'
 ---
 
 In the summer of 2018 I made the decision that I wanted to fully invest in getting myself real marketable skills in web development. I researched a few different bootcamps and my best friend eventually sent me information for a Bootcamp being held at Columbia University. My first level of attraction to this was, wow ok this has Columbia’s name attached to it which gives me some comfort versus some of the other bootcamps I was looking at it. When I applied and spoke to an advisor I learned that the company Trilogy Education has these Bootcamps at various prestigious colleges all over the country. This helped me ease into things knowing there were a few more University’s all backing this and I decided to go for it. 
@@ -26,4 +25,4 @@ Once I have made my jump into a full-time position I’ll follow up with the pro
 
 Stay tuned for my upcoming series of posts “How JavaScript Works!”
 
-![Rahat Chowdhury Bootcamp Certificate](Rahat-Chowdhury-Columbia-Cert.jpg "Columbia Bootcamp Certificate")
+![Columbia Certification](columbiacert.jpg "Rahat Columbia Certification")

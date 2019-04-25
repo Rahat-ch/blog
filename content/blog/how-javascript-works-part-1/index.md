@@ -1,7 +1,6 @@
 ---
-slug: '/javascriptworkspart1'
+title: How JavaScript Works Part 1
 date: '2019-04-24'
-title: 'How JavaScript Works Part 1'
 ---
 
 Welcome to Part 1 of my multi post series about “How JavaScript works”. This first post is going to focus primarily on two things: memory and the call stack. So we know that JavaScript is a program. There are two things a program needs to do: allocate memory then read and run commands. For JavaScript each browser has an engine (V8 in Chrome) that runs our JavaScript code. 

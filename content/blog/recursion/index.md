@@ -1,7 +1,6 @@
 ---
-slug: '/recursion'
+title: Recursion
 date: '2019-02-12'
-title: 'Recursion'
 ---
 
 Alright, let’s talk about Recursion! For a real world example of recursion, <a href = https://blog.rahatcodes.com/posts/recursion target="_blank">click here.</a>
@@ -101,4 +100,4 @@ So here we’re going to return the value of n being multiplied by the factorial
 console.log(factorial(3))
 ```
 
-You should be getting 6 for that if you followed along with what I’ve been showing you. Feel free to test it out with more cases! That concludes our lesson in recursion! If you like these little tutorials and would like to see other specific ones feel free to reach out to me on Twitter or Linkedin. (Links are at the top of every page!) I might ask you to co-author the post with me so we can both get a better understanding of these topics.
+You should be getting 6 for that if you followed along with what I’ve been showing you. Feel free to test it out with more cases! That concludes our lesson in recursion! If you like these little tutorials and would like to see other specific ones feel free to reach out to me on Twitter or Linkedin. (Links are at the bottom of every page!) I might ask you to co-author the post with me so we can both get a better understanding of these topics.

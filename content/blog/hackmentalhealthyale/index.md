@@ -1,7 +1,6 @@
 ---
-slug: '/myfirsthackathon'
+title: Hack Mental Health 2019 Yale
 date: '2019-02-24'
-title: 'My First Hackathon Experience'
 ---
 
 ![Team Evie Hack Mental Health Yale](team_evie.jpg "Team Evie Hack Mental Health Yale")
@@ -17,5 +16,3 @@ I enjoyed the fact that there were not as many developers in our group, it gave 
 Attending this event has made me hungry for more, I loved the atmosphere and the creative energy from everyone around us and the learning experience that came from this was absolutely priceless. If you are interested in attending a hackathon and are able to attend one on the west coast I highly recommend checking out Hack Mental Health’s next Hackathon at UCSF. You can learn more about that by visiting <a href = https://www.hackmentalhealth.care/ target="_blank">Hack Mental health’s webpage</a>. This will take place next month between March 23rd and 24th. Don’t miss out if you’re able to attend! This is a hackathon that really pushes you to create amazing software that can impact people in a positive way, and it’s not just for hackers! Even if you are still starting out and don’t feel confident, attend anyway. I am still a beginner but I know I want to create those experiences that will push me to develop my skills. 
 
 Be on the lookout for our hackathon creation, a Chrome extension named Evie coming to a blog post near you very soon! 
-
-
