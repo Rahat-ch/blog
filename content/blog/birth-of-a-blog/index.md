@@ -3,7 +3,7 @@ title: How This Blog Was Born
 date: '2019-01-23'
 ---
 
-TLDR: I taught myself how to build this site with a combination of the official Gatsby Documentation and tutorials. I came to realize that the Gatsby Documentation itself is all you need. (Always read the docs!) I am also looking for dedicated individuals to collaborate on a project with me. See the end of this post for details.
+TLDR: I taught myself how to build this site with a combination of the official Gatsby Documentation and tutorials. I came to realize that the Gatsby Documentation itself is all you need. (Always read the docs! Always!) I am also looking for dedicated individuals to collaborate on a project with me. See the end of this post for details.
 
 It took me a while to figure out how I wanted to write this. I thought I'd make my own little tutorial and guide someone through the process, but I think for my "tutorial" posts I'll stick to the smaller concepts. Instead, I'll take you through my journey and thought process as I built this site from the bottom up.
 
