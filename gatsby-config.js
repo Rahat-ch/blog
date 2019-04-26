@@ -29,6 +29,7 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          `gatsby-remark-prismjs`,
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -63,7 +64,6 @@ module.exports = {
         short_name: `RahatCodes`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `content/assets/logo.svg`,
       },
