@@ -1,11 +1,11 @@
-# gatsby-paginated-blog
+# Rahat Codes Blog
 
-Gatsby starter for creating a blog with pagination
+A Tech blog run by me where I share my experiences and small lessons on things I learn throughout my coding journey. 
 
-Install this starter by running from your CLI:
+# Technologies Used
 
-`npx gatsby new my-paginated-blog https://github.com/NickyMeuleman/gatsby-paginated-blog`
+React, Gatsby JS, CSS, and lots of writing!
 
-## Running in development
+# Deployed
 
-`npm run develop`
+https://www.rahatcodes.com/
