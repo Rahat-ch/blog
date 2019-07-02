@@ -17,18 +17,18 @@ I started promoting myself on Twitter and becoming more active in the different 
 
 I was proud to reveal that I was working on a project that included a lot of the tech stack they were using. I was using React, GraphQL, and PostgreSQL. I then proceeded to fail at my first interview, unable to really explain the underlying reasons why anything I coded was actually working. After being grilled about the technology and answering more or less everything incorrectly, I was told I probably would not be a good fit for the role. I was immediately crushed but what he did for me next was something I am truly grateful for today. He spent almost an hour giving me feedback and pointers on how to improve myself. Here is a summary of what he told me:
 
-I was trying to learn too many things at the same time, and none of it was actually sticking in my head.
-I was focusing too much on what he called the “sexy labels” and abstractions that exist in modern technology.
-I needed to go back and repeat the basics and rebuild my fundamentals.
-I needed to double down on my vanilla JavaScript.
-Run SQL queries without the use of an ORM.
-Forget things that made the development life easier and go through the pains of doing things like building a server with Node and not with an Express framework.
+* I was trying to learn too many things at the same time, and none of it was actually sticking in my head.
+* I was focusing too much on what he called the “sexy labels” and abstractions that exist in modern technology.
+* I needed to go back and repeat the basics and rebuild my fundamentals.
+ * I needed to double down on my vanilla JavaScript.
+ * Run SQL queries without the use of an ORM.
+ * Forget things that made the development life easier and go through the pains of doing things like building a server with Node and not with an Express framework.
 
 These were all actionable items that I knew I could take with me and work on. He didn’t stop there, he also told me what I was doing right:
 
-Continue to actively commit my code on Github.
-Continue writing blog posts about my journey as well as sharing things I learn about.
-Continue to be active on Twitter and learn from others online.
+* Continue to actively commit my code on Github.
+* Continue writing blog posts about my journey as well as sharing things I learn about.
+* Continue to be active on Twitter and learn from others online.
 
 I think the feedback session lasted longer than the interview itself and I will forever be grateful that I failed at this moment. I went back and doubled down on the basics. I focused on working with vanilla javascript. I re-learned how to build simple Node apps. I did a couple more projects using raw SQL queries. At the same time, I kept myself active online and ready to network with others. I developed a small introduction to React workshop and presented it in the form of a webinar. It was one of the first times I created a full project in React without relying on the Create-React-App CLI.
 
