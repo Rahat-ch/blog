@@ -3,7 +3,7 @@ title: How I became a Software Engineer
 date: '2019-07-02'
 ---
 
-Career Karma recently posted something on twitter “You’re always one decision away from a totally different life”. Over the past year I’ve repeatedly been in situations where one decision completely altered where my life was headed.
+Career Karma recently posted something on twitter: “You’re always one decision away from a totally different life”. Over the past year I’ve repeatedly been in situations where one decision completely altered where my life was headed.
 
 A couple of years ago I was a college dropout with not much direction, working in customer support and really hating where my career was headed. I eventually went back into college and started studying computer science but it wasn’t enough for what I wanted in life. I was working towards this degree that quite frankly, other people cared more about than I did. I still can’t care less about it. I needed something that would actually give me hands-on experience with technology that is relevant for this day in age. Traditional college education alone was just not going to cut it and it was not the best way for me to learn.
 
